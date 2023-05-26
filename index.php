@@ -18,4 +18,7 @@ require __DIR__ . '/wp-blog-header.php';
 
 
 /**gggg**/
+<<<<<<< HEAD
 echo "..................."
+=======
+>>>>>>> 7e3f3ece05804fb2307e0b005e7593c248393a1f
